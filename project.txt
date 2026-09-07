@@ -1,2 +1,4 @@
 GitHub Pull Request Demo
-Version 1.0
+Version 1.1
+- Feature: Added branch protection and review workflow
+- Docs: Improved PR documentation and release notes
